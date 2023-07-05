@@ -1,0 +1,41 @@
+img{
+    height: 300px;
+    width: 350px;
+    border: 2px solid aqua;
+    border-radius: 500px;
+    text-decoration: underline;
+
+    
+}
+.dudo{
+    text-align:center;
+    font-size: 20px;
+    background-color: aqua;
+    border: 2px dotted blueviolet;
+    margin-left: 32px dotted blue;
+    padding: 3rem;
+    border-radius: 9000px;
+    box-shadow: 10px 20px pink;
+    
+}
+*{
+    margin: 64px;
+    padding: 20px;
+}
+.Sudo{
+    text-align: justify;
+    font-size: 20px;
+    font-display: justify;
+    font-style: italic;
+    text-shadow: 2px 3px;
+    background-color: brown;
+    border: 2px dotted blueviolet;
+    margin-left: 32px dotted pink;
+    padding: 3rem;
+    border-radius: 9px;
+    box-shadow: 10px 20px 30px pink;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
